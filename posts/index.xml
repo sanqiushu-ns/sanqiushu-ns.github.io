@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Toha</title>
-    <link>https://sanqiushu.github.io/posts/</link>
+    <link>https://sanqiushugyh.github.io/sanqiushu.github.io/posts/</link>
     <description>Recent content in Posts on Toha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2020 22:58:56 +0800</lastBuildDate><atom:link href="https://sanqiushu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Nov 2020 22:58:56 +0800</lastBuildDate><atom:link href="https://sanqiushugyh.github.io/sanqiushu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirst</title>
-      <link>https://sanqiushu.github.io/posts/myfirst/</link>
+      <link>https://sanqiushugyh.github.io/sanqiushu.github.io/posts/myfirst/</link>
       <pubDate>Wed, 04 Nov 2020 22:58:56 +0800</pubDate>
       
-      <guid>https://sanqiushu.github.io/posts/myfirst/</guid>
+      <guid>https://sanqiushugyh.github.io/sanqiushu.github.io/posts/myfirst/</guid>
       <description>hi </description>
     </item>
     
