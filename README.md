@@ -1,2 +1,0 @@
-# sanqiushu.github.io
-blog
