@@ -32,35 +32,6 @@
   </url>
   
   <url>
-    <loc>https://sanqiushu-ns.github.io/bn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sanqiushu-ns.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://sanqiushu-ns.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://sanqiushu-ns.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://sanqiushu-ns.github.io/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://sanqiushu-ns.github.io/bn/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://sanqiushu-ns.github.io/bn/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,6 +57,35 @@
                 rel="alternate"
                 hreflang="bn"
                 href="https://sanqiushu-ns.github.io/bn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sanqiushu-ns.github.io/bn/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sanqiushu-ns.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sanqiushu-ns.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sanqiushu-ns.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://sanqiushu-ns.github.io/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://sanqiushu-ns.github.io/bn/tags/"
                 />
   </url>
   
